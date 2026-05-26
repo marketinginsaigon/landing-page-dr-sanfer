@@ -174,7 +174,7 @@ export default function LeadForm() {
                 <button 
                   disabled={isSubmitting}
                   type="submit" 
-                  className="w-full py-4 bg-brand text-white rounded-lg font-bold shadow-lg shadow-blue-100 hover:bg-blue-700 transition-all flex items-center justify-center gap-2 disabled:opacity-70"
+                  className="w-full py-4 bg-brand text-white rounded-lg font-bold shadow-lg shadow-pink-100 hover:bg-pink-700 transition-all flex items-center justify-center gap-2 disabled:opacity-70"
                 >
                   {isSubmitting ? "Đang xử lý..." : "Đăng ký nhận báo giá ngay"} <Send size={18} />
                 </button>

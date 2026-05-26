@@ -56,7 +56,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="relative"
           >
-            <div className="aspect-square bg-gradient-to-br from-blue-100 to-emerald-50 rounded-2xl overflow-hidden shadow-2xl relative">
+            <div className="aspect-square bg-gradient-to-br from-pink-100 to-rose-50 rounded-2xl overflow-hidden shadow-2xl relative">
               <img 
                 src="https://images.unsplash.com/photo-1586015555751-63bb77f4322a?q=80&w=1000&auto=format&fit=crop" 
                 alt="Pharmacy interior" 
