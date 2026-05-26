@@ -1,0 +1,8 @@
+{
+  "name": "Dr Sanfer B2B Landing Page",
+  "description": "Professional landing page for Dr Sanfer B2B pharmacy partnership and lead generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
